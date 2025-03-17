@@ -68,3 +68,11 @@ body{
 .margen{
     margin: auto;
 }
+.IMAGEN1{
+    padding: 35px;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55px;
+    height:  10 px;
+}
